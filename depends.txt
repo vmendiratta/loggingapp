@@ -1,3 +1,0 @@
-Django==1.11.3
-fluent-logger==0.5.0
-logmatic-python==0.1.7
